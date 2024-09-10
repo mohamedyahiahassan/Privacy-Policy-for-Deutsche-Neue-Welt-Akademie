@@ -24,9 +24,9 @@ Your data might be shared with Google Play Services or other Google Services
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
-    as required by law, such as to comply with a subpoena, or similar legal process;
-    when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-    with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+* as required by law, such as to comply with a subpoena, or similar legal process;
+* when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+* with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
 
 # Opt-Out Rights
@@ -151,9 +151,9 @@ Wenn Sie Fragen zur Privatsphäre bei der Nutzung der Anwendung haben oder Frage
 
 قد يكشف مقدم الخدمة عن المعلومات التي قدمها المستخدم والمعلومات التي تم جمعها تلقائيًا:
 
-    كما هو مطلوب بموجب القانون، مثل الامتثال لاستدعاء، أو عملية قانونية مماثلة؛
-    عندما يعتقد بحسن نية أن الكشف ضروري لحماية حقوقه، أو حماية سلامتك أو سلامة الآخرين، التحقيق في الاحتيال، أو الاستجابة لطلب حكومي؛
-    إلى مقدمي خدماته الموثوقين الذين يعملون نيابة عنه، وليس لديهم استخدام مستقل للمعلومات التي نكشفها لهم، وقد وافقوا على الالتزام بالقواعد الموضحة في بيان الخصوصية هذا
+*   كما هو مطلوب بموجب القانون، مثل الامتثال لاستدعاء، أو عملية قانونية مماثلة؛
+*  عندما يعتقد بحسن نية أن الكشف ضروري لحماية حقوقه، أو حماية سلامتك أو سلامة الآخرين، التحقيق في الاحتيال، أو الاستجابة لطلب حكومي؛
+*  إلى مقدمي خدماته الموثوقين الذين يعملون نيابة عنه، وليس لديهم استخدام مستقل للمعلومات التي نكشفها لهم، وقد وافقوا على الالتزام بالقواعد الموضحة في بيان الخصوصية هذا
 
 # حقوق الانسحاب
 
