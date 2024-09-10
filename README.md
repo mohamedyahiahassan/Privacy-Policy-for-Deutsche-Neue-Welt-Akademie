@@ -20,10 +20,7 @@ The information that the Service Provider request will be retained by them and u
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
-
-    Google Play Services
-
+Your data might be shared with Google Play Services or other Google Services
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -86,15 +83,13 @@ Die Informationen, die der Dienstanbieter anfordert, werden von ihm aufbewahrt u
 
 Nur aggregierte, anonymisierte Daten werden regelmäßig an externe Dienste übermittelt, um dem Dienstanbieter bei der Verbesserung der Anwendung und seines Dienstes zu helfen. Der Dienstanbieter kann Ihre Informationen auf die in dieser Datenschutzerklärung beschriebenen Weisen mit Dritten teilen.
 
-Bitte beachten Sie, dass die Anwendung Drittanbieterdienste nutzt, die ihre eigene Datenschutzerklärung zur Datenverarbeitung haben. Unten finden Sie die Links zur Datenschutzerklärung der von der Anwendung verwendeten Drittanbieterdienste:
+Ihre Daten könnten mit Google Play-Diensten oder anderen Google-Diensten geteilt werden.
 
-- Google Play-Dienste
+Der Dienstanbieter kann benutzerbereitgestellte und automatisch gesammelte Informationen offenlegen:
 
-Der Dienstanbieter kann Benutzerbereitgestellte und automatisch gesammelte Informationen offenlegen:
-
-- wie gesetzlich vorgeschrieben, z. B. zur Einhaltung einer Vorladung oder ähnlicher rechtlicher Verfahren;
-- wenn er in gutem Glauben der Meinung ist, dass die Offenlegung notwendig ist, um seine Rechte zu schützen, Ihre Sicherheit oder die Sicherheit anderer zu gewährleisten, Betrug zu untersuchen oder auf eine Regierungsanforderung zu reagieren;
-- an seine vertrauenswürdigen Dienstleister, die in seinem Auftrag arbeiten, keine unabhängige Nutzung der Informationen haben und sich verpflichtet haben, die in dieser Datenschutzerklärung festgelegten Regeln einzuhalten.
+* wie gesetzlich vorgeschrieben, z. B. zur Einhaltung einer Vorladung oder ähnlicher rechtlicher Verfahren;
+* wenn er in gutem Glauben der Meinung ist, dass die Offenlegung notwendig ist, um seine Rechte zu schützen, Ihre Sicherheit oder die Sicherheit anderer zu gewährleisten, Betrug zu untersuchen oder auf eine Regierungsanforderung zu reagieren;
+* an seine vertrauenswürdigen Dienstleister, die in seinem Auftrag arbeiten, keine unabhängige Nutzung der Informationen haben und sich verpflichtet haben, die in dieser Datenschutzerklärung festgelegten Regeln einzuhalten.
 
 # Opt-Out-Rechte
 
@@ -152,15 +147,13 @@ Wenn Sie Fragen zur Privatsphäre bei der Nutzung der Anwendung haben oder Frage
 
 يتم إرسال البيانات المجمعة والمجهولة الهوية فقط بشكل دوري إلى الخدمات الخارجية لمساعدة مقدم الخدمة في تحسين التطبيق وخدماته. قد يشارك مقدم الخدمة معلوماتك مع أطراف ثالثة بالطرق التي تم توضيحها في بيان الخصوصية هذا.
 
-يرجى ملاحظة أن التطبيق يستخدم خدمات من أطراف ثالثة لديها سياسة خصوصية خاصة بها بشأن التعامل مع البيانات. أدناه تجد روابط سياسة الخصوصية لمقدمي خدمات الأطراف الثالثة الذين يستخدمهم التطبيق:
+قد يتم مشاركة بياناتك مع خدمات جوجل بلاي أو خدمات جوجل الأخرى.
 
-- خدمات جوجل بلاي
+قد يكشف مقدم الخدمة عن المعلومات التي قدمها المستخدم والمعلومات التي تم جمعها تلقائيًا:
 
-قد يقوم مقدم الخدمة بالكشف عن المعلومات التي قدمها المستخدم والمعلومات التي تم جمعها تلقائيًا:
-
-- كما هو مطلوب بموجب القانون، مثل الامتثال لاستدعاء، أو عملية قانونية مماثلة؛
-- عندما يعتقد بحسن نية أن الكشف ضروري لحماية حقوقه، أو حماية سلامتك أو سلامة الآخرين، التحقيق في الاحتيال، أو الاستجابة لطلب حكومي؛
-- مع مقدمي خدماته الموثوقين الذين يعملون نيابة عنه، وليس لديهم استخدام مستقل للمعلومات التي نكشفها لهم، وقد وافقوا على الالتزام بالقواعد الموضحة في بيان الخصوصية هذا.
+    كما هو مطلوب بموجب القانون، مثل الامتثال لاستدعاء، أو عملية قانونية مماثلة؛
+    عندما يعتقد بحسن نية أن الكشف ضروري لحماية حقوقه، أو حماية سلامتك أو سلامة الآخرين، التحقيق في الاحتيال، أو الاستجابة لطلب حكومي؛
+    إلى مقدمي خدماته الموثوقين الذين يعملون نيابة عنه، وليس لديهم استخدام مستقل للمعلومات التي نكشفها لهم، وقد وافقوا على الالتزام بالقواعد الموضحة في بيان الخصوصية هذا
 
 # حقوق الانسحاب
 
